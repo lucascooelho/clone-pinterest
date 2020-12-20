@@ -5,11 +5,14 @@
           box-sizing: border-box;
 }
 
-*, button, input {
+*,
+button,
+input {
   font-family: -apple-system, Ubuntu, Arial, sans-serif;
 }
 
-*, li {
+*,
+li {
   list-style: none;
 }
 
@@ -234,8 +237,9 @@ header .signup {
 .item {
   width: 236px;
   height: 350px;
-  background: #e60023;
+  background: #767676;
   border-radius: 10px;
+  overflow: hidden;
 }
 
 .item:not(:first-child) {
