@@ -1,6 +1,6 @@
 <h2 align="center"> Pinterest Clone </h2>
 
-<p align="center">This project is a Pinterest clone. Where concepts were for study purposes.</p>
+<p align="center">This project is a <a href="https://www.pinterest.com/" target="_blank" >Pinterest</a> clone. Where concepts were for study purposes.</p>
 
 <p align="center">Check online <a href="https://stoic-jennings-9ef8ad.netlify.app/" target="_blank" >here</a>.</p>
 
